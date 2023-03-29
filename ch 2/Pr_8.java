@@ -2,7 +2,7 @@
 /*
     Question 8
 */
-import java.util.*;
+// import java.util.*;
 
 interface Exam {
     boolean pass(int marks);
